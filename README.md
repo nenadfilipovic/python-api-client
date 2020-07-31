@@ -39,7 +39,7 @@ Just run it.
 
 ## Built With
 
-* [Python](https://www.python.org/) - Language used
+* [Python](https://www.python.org/)
 
 ## Authors
 
