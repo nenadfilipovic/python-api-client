@@ -1,7 +1,7 @@
 # Python API Client
 
 Main purpose of this app is testing php API that I have created.
-App test all REST commands that API supports.
+App test all CRUD commands that API supports.
 
 All options are listed in main menu and you choose from there what you want to do.
 
